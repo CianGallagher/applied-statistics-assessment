@@ -1,6 +1,6 @@
 # Applied Statistics – Problem Set
 
-This repository contains my work for the Applied Statistics assignment. All three problems were completed in a Jupyter notebook using NumPy, SciPy, and Matplotlib. Each section includes code, explanations, and simulation results.
+This repository contains my work for the Applied Statistics assignment. All problems were completed in a Jupyter notebook using NumPy, SciPy, and Matplotlib. Each section includes code, explanations, and simulation results.
 
 ## Problem 1 – Extended Lady Tasting Tea Experiment
 This problem extended the original 8-cup Lady Tasting Tea setup to a 12-cup version (8 tea-first, 4 milk-first).
